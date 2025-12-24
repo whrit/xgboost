@@ -27,7 +27,7 @@ License
 -------
 © Contributors, 2021. Licensed under an [Apache-2](https://github.com/dmlc/xgboost/blob/master/LICENSE) license.
 
-Contribute to XGBoost
+Contribute to XGBoos
 ---------------------
 XGBoost has been developed and used by a group of active community members. Your help is very valuable to make the package better for everyone.
 Checkout the [Community Page](https://xgboost.ai/community).
